@@ -33,7 +33,7 @@ namespace WPFCalculator
 
         private void Operator_Click(object sender, RoutedEventArgs e)
         {
-           // Tb.Text += ((Button)sender).Content;
+            Tb.Text += ((Button)sender).Content;
         }
     }
 }
