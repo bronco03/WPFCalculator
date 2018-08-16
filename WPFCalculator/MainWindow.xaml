@@ -19,7 +19,7 @@
         <Button Content="3" Click="Number_Click" HorizontalAlignment="Left" Height="67" Margin="826,327,0,0" VerticalAlignment="Top" Width="70" FontSize="24"/>
         <Button Content="0" Click="Number_Click" HorizontalAlignment="Left" Height="67" Margin="631,422,0,0" VerticalAlignment="Top" Width="71" FontSize="24"/>
         <Button Content="." Click="Number_Click" HorizontalAlignment="Left" Height="67" Margin="728,422,0,0" VerticalAlignment="Top" Width="71" FontSize="24"/>
-        <Button Content="=" HorizontalAlignment="Left" Height="67" Margin="826,422,0,0" VerticalAlignment="Top" Width="70" FontSize="24"/>
+        <Button Content="=" Click="Result_Click" HorizontalAlignment="Left" Height="67" Margin="826,422,0,0" VerticalAlignment="Top" Width="70" FontSize="24"/>
         <Button Content="*" Click="Operator_Click" HorizontalAlignment="Left" Height="67" Margin="923,138,0,0" VerticalAlignment="Top" Width="71" FontSize="24"/>
         <Button Content="/" Click="Operator_Click" HorizontalAlignment="Left" Height="67" Margin="923,233,0,0" VerticalAlignment="Top" Width="71" FontSize="24"/>
         <Button Content="-" Click="Operator_Click" HorizontalAlignment="Left" Height="67" Margin="923,327,0,0" VerticalAlignment="Top" Width="71" FontSize="24"/>
